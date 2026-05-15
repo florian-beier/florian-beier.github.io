@@ -1,0 +1,12 @@
+---
+title: "On a Linear Gromov--Wasserstein Distance"
+collection: publications
+permalink: https://ieeexplore.ieee.org/abstract/document/9953052
+excerpt: 'Fast approximative Gromov--Wasserstein computation with linearization.'
+date: 2022-10-08
+venue: 'IEEE Transactions on Image Processing'
+paperurl: 'https://doi.org/10.1109/TIP.2022.3221286'
+---
+
+### Abstract
+Gromov--Wasserstein distances are generalization of Wasserstein distances, which are invariant under distance preserving transformations. Although a simplified version of optimal transport in Wasserstein spaces, called linear optimal transport (LOT), was successfully used in practice, there does not exist a notion of linear Gromov–Wasserstein distances so far. In this paper, we propose a definition of linear Gromov–Wasserstein distances. We motivate our approach by a generalized LOT model, which is based on barycentric projection maps of transport plans. Numerical examples illustrate that the linear Gromov–Wasserstein distances, similarly as LOT, can replace the expensive computation of pairwise Gromov–Wasserstein distances in applications like shape classification.
