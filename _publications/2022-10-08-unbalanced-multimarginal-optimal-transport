@@ -1,0 +1,12 @@
+---
+title: "Unbalanced Multi-marginal Optimal Transport"
+collection: publications
+permalink: https://link.springer.com/article/10.1007/s10851-022-01126-7
+excerpt: 'Analysis and Algorithm for multi-marginal optimal transport in the unbalanced context.'
+date: 2022-10-08
+venue: 'Journal of Mathematical Imaging and Vision'
+paperurl: 'https://doi.org/10.1007/s10851-022-01126-7'
+---
+
+### Abstract
+Entropy-regularized optimal transport and its multi-marginal generalization have attracted increasing attention in various applications, in particular due to efficient Sinkhorn-like algorithms for computing optimal transport plans. However, it is often desirable that the marginals of the optimal transport plan do not match the given measures exactly, which led to the introduction of the so-called unbalanced optimal transport. Since unbalanced methods were not examined for the multi-marginal setting so far, we address this topic in the present paper. More precisely, we introduce the unbalanced multi-marginal optimal transport problem and its dual and show that a unique optimal transport plan exists under mild assumptions. Furthermore, we generalize the Sinkhorn algorithm for regularized unbalanced optimal transport to the multi-marginal setting and prove its convergence. For cost functions decoupling according to a tree, the iterates can be computed efficiently. At the end, we discuss three applications of our framework, namely two barycenter problems and a transfer operator approach, where we establish a relation between the barycenter problem and the multi-marginal optimal transport with an appropriate tree-structured cost function.
